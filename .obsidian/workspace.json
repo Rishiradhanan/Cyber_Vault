@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber_Vault/Try_Hack_Me/fddf/dfdw.md",
+                "file": "Cyber_Vault/HTB_Challanges/Simple Encryptor/Hello Boss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dfdw"
+              "title": "Hello Boss"
             }
           }
         ]
@@ -166,11 +166,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54b73db602fc2043",
+  "active": "ea2e72f06582963e",
   "lastOpenFiles": [
+    "Cyber_Vault/Try_Hack_Me/fddf/dfdw.md",
+    "Cyber_Vault/HTB_Challanges/Simple Encryptor/Hello Boss.md",
     "Cyber_Vault/HTB_Challanges/Simple Encryptor",
     "Cyber_Vault/Pico CTF/Untitled.md",
-    "Cyber_Vault/Try_Hack_Me/fddf/dfdw.md",
     "Cyber_Vault/Try_Hack_Me/fddf",
     "Cyber_Vault/Pico CTF",
     "Cyber_Vault/Try_Hack_Me",
