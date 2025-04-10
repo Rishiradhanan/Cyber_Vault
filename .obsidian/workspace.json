@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "3d7d35de7ee3ec4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9856d54f81c4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3877493504037bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber_Vault/HTB_Challanges/SpookyPass/HI i am.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HI i am"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e864f5faeb471e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea2e72f06582963e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a4eb43bca172b19f",
+    "type": "split",
+    "children": [
+      {
+        "id": "457fe6ccb000a9e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b73db602fc2043",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "64dcc6b2f7b4228d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8dcf9072d2dbaf8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "51a6a2e343c3a798",
+    "type": "split",
+    "children": [
+      {
+        "id": "167f3abe9baef8c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d417c854629da6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cyber_Vault/HTB_Challanges/SpookyPass/HI i am.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for HI i am"
+            }
+          },
+          {
+            "id": "6d88ac8548ba097e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Cyber_Vault/HTB_Challanges/SpookyPass/HI i am.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HI i am"
+            }
+          },
+          {
+            "id": "f4cc98b2ac7672eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9cbf9e85017a1907",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Cyber_Vault/HTB_Challanges/SpookyPass/HI i am.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of HI i am"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d3877493504037bd",
+  "lastOpenFiles": [
+    "Screenshot 2025-04-10 013533.png",
+    "Screenshot 2025-04-10 013611.png",
+    "Screenshot 2025-04-10 012918.png",
+    "Welcome.md",
+    "Cyber_Vault/HTB_Challanges/SpookyPass/HI i am.md",
+    "Cyber_Vault/HTB_Challanges/SpookyPass",
+    "Cyber_Vault/HTB_Challanges",
+    "Cyber_Vault"
+  ]
+}
